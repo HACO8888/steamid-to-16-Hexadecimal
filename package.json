@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "discord.js": "^12.5.3"
+  }
+}
